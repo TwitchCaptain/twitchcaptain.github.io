@@ -1,7 +1,7 @@
 [
   {
     "name": "hass-securityspy",
-    "description": "Home Assistant access to SecuritySpy events",
+    "description": "Home Assistant integration for SecuritySpy — cameras, motion, AI classify, arming, and PTZ",
     "url": "https://github.com/TwitchCaptain/hass-securityspy",
     "homepage": null,
     "pages_url": null,
