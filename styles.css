@@ -3,11 +3,11 @@
   --bg-elevated: #0a0a0c;
   --fg: #f2f0f7;
   --muted: #9b95a8;
-  --purple: #9146ff;
-  --purple-deep: #6441a5;
-  --purple-soft: rgba(145, 70, 255, 0.18);
-  --purple-line: rgba(145, 70, 255, 0.55);
-  --border: rgba(145, 70, 255, 0.28);
+  --purple: #8b8fd9;
+  --purple-deep: #2b2e5e;
+  --purple-soft: rgba(139, 143, 217, 0.14);
+  --purple-line: rgba(139, 143, 217, 0.45);
+  --border: rgba(139, 143, 217, 0.28);
   --font-display: "Press Start 2P", ui-monospace, monospace;
   --font-body: "IBM Plex Sans", "Segoe UI", sans-serif;
   --max: 52rem;
@@ -31,8 +31,8 @@ body {
   line-height: 1.55;
   color: var(--fg);
   background:
-    radial-gradient(1200px 600px at 50% -10%, rgba(100, 65, 165, 0.28), transparent 60%),
-    radial-gradient(800px 400px at 90% 20%, rgba(145, 70, 255, 0.08), transparent 50%),
+    radial-gradient(1200px 600px at 50% -10%, rgba(43, 46, 94, 0.55), transparent 60%),
+    radial-gradient(800px 400px at 90% 20%, rgba(139, 143, 217, 0.1), transparent 50%),
     var(--bg);
   position: relative;
   overflow-x: hidden;
@@ -46,7 +46,7 @@ a {
 }
 
 a:hover {
-  color: #b48cff;
+  color: #b4b7ea;
 }
 
 .noise {
@@ -64,7 +64,7 @@ a:hover {
   inset: auto auto -20% -10%;
   width: 50vw;
   height: 50vw;
-  background: radial-gradient(circle, rgba(145, 70, 255, 0.12), transparent 65%);
+  background: radial-gradient(circle, rgba(139, 143, 217, 0.14), transparent 65%);
   filter: blur(20px);
   z-index: 0;
   animation: drift 14s ease-in-out infinite alternate;
@@ -107,20 +107,21 @@ main,
 
 .logo {
   display: block;
-  width: min(100%, 34rem);
+  width: min(100%, 40rem);
   height: auto;
-  margin: 0 auto 1.5rem;
-  filter: drop-shadow(0 0 28px rgba(145, 70, 255, 0.35));
+  margin: 0 auto 1.75rem;
+  /* Source mark is deep indigo; lift it so it reads on pure black. */
+  filter: brightness(2.65) drop-shadow(0 0 24px rgba(139, 143, 217, 0.35));
   animation: pulse-glow 4.5s ease-in-out infinite;
 }
 
 @keyframes pulse-glow {
   0%,
   100% {
-    filter: drop-shadow(0 0 22px rgba(145, 70, 255, 0.28));
+    filter: brightness(2.65) drop-shadow(0 0 18px rgba(139, 143, 217, 0.28));
   }
   50% {
-    filter: drop-shadow(0 0 36px rgba(145, 70, 255, 0.5));
+    filter: brightness(2.85) drop-shadow(0 0 32px rgba(139, 143, 217, 0.48));
   }
 }
 
@@ -184,7 +185,7 @@ main,
   padding: 1.15rem 1.2rem;
   border: 1px solid transparent;
   border-bottom: 1px solid var(--border);
-  background: linear-gradient(180deg, rgba(145, 70, 255, 0.05), transparent 70%);
+  background: linear-gradient(180deg, rgba(139, 143, 217, 0.06), transparent 70%);
   transition:
     border-color 180ms ease,
     background 180ms ease,
@@ -220,7 +221,7 @@ main,
 }
 
 .project-name a:hover {
-  color: #b48cff;
+  color: #b4b7ea;
 }
 
 .project-meta {
