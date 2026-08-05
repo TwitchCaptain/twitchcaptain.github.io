@@ -1,0 +1,76 @@
+[
+  {
+    "name": "hass-securityspy",
+    "description": "Home Assistant access to SecuritySpy events",
+    "url": "https://github.com/TwitchCaptain/hass-securityspy",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Python",
+    "topics": [
+      "hacs",
+      "homeassistant",
+      "integration",
+      "securityspy"
+    ],
+    "pushed_at": "2026-08-04T07:16:56Z",
+    "stargazers_count": 1
+  },
+  {
+    "name": "aiosecspy",
+    "description": "Python Asynchronous I/O SDK for SecuritySpy",
+    "url": "https://github.com/TwitchCaptain/aiosecspy",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Python",
+    "topics": [],
+    "pushed_at": "2026-08-04T07:10:17Z",
+    "stargazers_count": 1
+  },
+  {
+    "name": "hangman",
+    "description": "Hangman word guessing game built with Svelte + TypeScript",
+    "url": "https://github.com/TwitchCaptain/hangman",
+    "homepage": "https://twitchcaptain.com/hangman/",
+    "pages_url": "https://twitchcaptain.com/hangman/",
+    "language": "Svelte",
+    "topics": [
+      "deepseek-flash",
+      "pi"
+    ],
+    "pushed_at": "2026-07-13T15:00:45Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "hass-net-relay-8ch",
+    "description": "Home Assistant integration for Zhen Ming / IoTZone 8-channel Ethernet relay boards (TCP + HTTP)",
+    "url": "https://github.com/TwitchCaptain/hass-net-relay-8ch",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Python",
+    "topics": [],
+    "pushed_at": "2026-07-13T05:37:34Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "hass-apc-rack-pdu",
+    "description": "Home Assistant custom integration for APC Metered Rack PDUs (AP8858 / rPDU2) with power, energy, and env probe sensors",
+    "url": "https://github.com/TwitchCaptain/hass-apc-rack-pdu",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Python",
+    "topics": [],
+    "pushed_at": "2026-07-13T05:27:00Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "spigot-docker",
+    "description": "Automated builder for Docker container running SpigotMC",
+    "url": "https://github.com/TwitchCaptain/spigot-docker",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Dockerfile",
+    "topics": [],
+    "pushed_at": "2025-11-02T18:32:42Z",
+    "stargazers_count": 0
+  }
+]

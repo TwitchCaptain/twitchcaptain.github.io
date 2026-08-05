@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>twitch CAPTAIN</title>
+    <meta
+      name="description"
+      content="Open-source projects from the TwitchCaptain GitHub organization — Home Assistant, SecuritySpy, games, and more."
+    />
+    <meta name="theme-color" content="#000000" />
+    <link rel="icon" href="assets/logo.png" type="image/png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="noise" aria-hidden="true"></div>
+    <div class="glow" aria-hidden="true"></div>
+
+    <header class="hero">
+      <img
+        class="logo"
+        src="assets/logo.png"
+        width="1024"
+        height="497"
+        alt="twitch CAPTAIN"
+      />
+      <p class="tagline">Homelab tools, integrations, and side quests.</p>
+      <p class="lede">
+        Public projects from the
+        <a href="https://github.com/TwitchCaptain">TwitchCaptain</a> org.
+      </p>
+    </header>
+
+    <main>
+      <section class="projects" aria-labelledby="projects-heading">
+        <div class="section-head">
+          <h1 id="projects-heading">Projects</h1>
+          <p class="section-note">Updated daily from GitHub.</p>
+        </div>
+        <ul id="project-list" class="project-list" aria-live="polite">
+          <li class="project-loading">Loading projects…</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <a href="https://github.com/TwitchCaptain">GitHub</a>
+      <span aria-hidden="true">·</span>
+      <a href="https://github.com/TwitchCaptain/twitchcaptain.github.io"
+        >Site source</a
+      >
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
