@@ -1,5 +1,70 @@
 [
   {
+    "name": "alexa-homeassistant",
+    "description": "No description provided.",
+    "url": "https://github.com/TwitchCaptain/alexa-homeassistant",
+    "homepage": null,
+    "pages_url": null,
+    "language": null,
+    "topics": [],
+    "pushed_at": "2026-08-05T06:53:28Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "racing",
+    "description": "3D Bicycle Racing Game built with Three.js - low-poly track, loops, jumps, and high speeds",
+    "url": "https://github.com/TwitchCaptain/racing",
+    "homepage": null,
+    "pages_url": "https://twitchcaptain.com/racing/",
+    "language": "JavaScript",
+    "topics": [],
+    "pushed_at": "2026-08-05T05:30:58Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "deepseek-flappy-bird",
+    "description": "No description provided.",
+    "url": "https://github.com/TwitchCaptain/deepseek-flappy-bird",
+    "homepage": null,
+    "pages_url": "https://twitchcaptain.com/deepseek-flappy-bird/",
+    "language": "JavaScript",
+    "topics": [],
+    "pushed_at": "2026-08-05T04:03:26Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "hass-apc-rack-pdu",
+    "description": "Home Assistant custom integration for APC Metered Rack PDUs (AP8858 / rPDU2) with power, energy, and env probe sensors",
+    "url": "https://github.com/TwitchCaptain/hass-apc-rack-pdu",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Python",
+    "topics": [
+      "apc",
+      "hacs",
+      "homeassistant",
+      "integration"
+    ],
+    "pushed_at": "2026-08-05T03:01:18Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "hass-net-relay-8ch",
+    "description": "Home Assistant integration for Zhen Ming / IoTZone 8-channel Ethernet relay boards (TCP + HTTP)",
+    "url": "https://github.com/TwitchCaptain/hass-net-relay-8ch",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Python",
+    "topics": [
+      "hacs",
+      "homeassistant",
+      "integration",
+      "relay"
+    ],
+    "pushed_at": "2026-08-05T02:58:33Z",
+    "stargazers_count": 0
+  },
+  {
     "name": "hass-securityspy",
     "description": "Home Assistant integration for SecuritySpy — cameras, motion, AI classify, arming, and PTZ",
     "url": "https://github.com/TwitchCaptain/hass-securityspy",
@@ -38,28 +103,6 @@
       "pi"
     ],
     "pushed_at": "2026-07-13T15:00:45Z",
-    "stargazers_count": 0
-  },
-  {
-    "name": "hass-net-relay-8ch",
-    "description": "Home Assistant integration for Zhen Ming / IoTZone 8-channel Ethernet relay boards (TCP + HTTP)",
-    "url": "https://github.com/TwitchCaptain/hass-net-relay-8ch",
-    "homepage": null,
-    "pages_url": null,
-    "language": "Python",
-    "topics": [],
-    "pushed_at": "2026-07-13T05:37:34Z",
-    "stargazers_count": 0
-  },
-  {
-    "name": "hass-apc-rack-pdu",
-    "description": "Home Assistant custom integration for APC Metered Rack PDUs (AP8858 / rPDU2) with power, energy, and env probe sensors",
-    "url": "https://github.com/TwitchCaptain/hass-apc-rack-pdu",
-    "homepage": null,
-    "pages_url": null,
-    "language": "Python",
-    "topics": [],
-    "pushed_at": "2026-07-13T05:27:00Z",
     "stargazers_count": 0
   },
   {
