@@ -5,9 +5,20 @@
     "url": "https://github.com/TwitchCaptain/alexa-homeassistant",
     "homepage": null,
     "pages_url": null,
-    "language": null,
+    "language": "Python",
     "topics": [],
-    "pushed_at": "2026-08-05T06:53:28Z",
+    "pushed_at": "2026-08-06T07:18:50Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "snake",
+    "description": "No description provided.",
+    "url": "https://github.com/TwitchCaptain/snake",
+    "homepage": null,
+    "pages_url": "https://twitchcaptain.com/snake/",
+    "language": "JavaScript",
+    "topics": [],
+    "pushed_at": "2026-08-06T07:15:49Z",
     "stargazers_count": 0
   },
   {
