@@ -1,5 +1,16 @@
 [
   {
+    "name": "flappy-bird",
+    "description": "Flappy Bird clone in pure Canvas + JS — shifting sky and pipe palettes",
+    "url": "https://github.com/TwitchCaptain/flappy-bird",
+    "homepage": "https://twitchcaptain.com/flappy-bird/",
+    "pages_url": "https://twitchcaptain.com/flappy-bird/",
+    "language": "JavaScript",
+    "topics": [],
+    "pushed_at": "2026-08-07T05:28:28Z",
+    "stargazers_count": 0
+  },
+  {
     "name": "alexa-homeassistant",
     "description": "No description provided.",
     "url": "https://github.com/TwitchCaptain/alexa-homeassistant",
@@ -30,17 +41,6 @@
     "language": "JavaScript",
     "topics": [],
     "pushed_at": "2026-08-05T05:30:58Z",
-    "stargazers_count": 0
-  },
-  {
-    "name": "deepseek-flappy-bird",
-    "description": "No description provided.",
-    "url": "https://github.com/TwitchCaptain/deepseek-flappy-bird",
-    "homepage": null,
-    "pages_url": "https://twitchcaptain.com/deepseek-flappy-bird/",
-    "language": "JavaScript",
-    "topics": [],
-    "pushed_at": "2026-08-05T04:03:26Z",
     "stargazers_count": 0
   },
   {
