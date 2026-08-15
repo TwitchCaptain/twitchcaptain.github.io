@@ -1,5 +1,27 @@
 [
   {
+    "name": "racing",
+    "description": "3D Bicycle Racing Game built with Three.js - low-poly track, loops, jumps, and high speeds",
+    "url": "https://github.com/TwitchCaptain/racing",
+    "homepage": null,
+    "pages_url": "https://twitchcaptain.com/racing/",
+    "language": "JavaScript",
+    "topics": [],
+    "pushed_at": "2026-08-15T03:08:19Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "DS4_Qwen38_Flappy",
+    "description": "No description provided.",
+    "url": "https://github.com/TwitchCaptain/DS4_Qwen38_Flappy",
+    "homepage": null,
+    "pages_url": "https://twitchcaptain.com/DS4_Qwen38_Flappy/",
+    "language": "JavaScript",
+    "topics": [],
+    "pushed_at": "2026-08-14T19:21:10Z",
+    "stargazers_count": 0
+  },
+  {
     "name": "hass-net-relay-8ch",
     "description": "Home Assistant integration for Zhen Ming / IoTZone 8-channel Ethernet relay boards (TCP + HTTP)",
     "url": "https://github.com/TwitchCaptain/hass-net-relay-8ch",
@@ -89,17 +111,6 @@
     "language": "JavaScript",
     "topics": [],
     "pushed_at": "2026-08-06T07:15:49Z",
-    "stargazers_count": 0
-  },
-  {
-    "name": "racing",
-    "description": "3D Bicycle Racing Game built with Three.js - low-poly track, loops, jumps, and high speeds",
-    "url": "https://github.com/TwitchCaptain/racing",
-    "homepage": null,
-    "pages_url": "https://twitchcaptain.com/racing/",
-    "language": "JavaScript",
-    "topics": [],
-    "pushed_at": "2026-08-05T05:30:58Z",
     "stargazers_count": 0
   },
   {
