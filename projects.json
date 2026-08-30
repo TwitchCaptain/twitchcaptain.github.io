@@ -1,5 +1,16 @@
 [
   {
+    "name": "auto-updater",
+    "description": "Captain Updater — keep Windows apps current from GitHub releases",
+    "url": "https://github.com/TwitchCaptain/auto-updater",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Java",
+    "topics": [],
+    "pushed_at": "2026-08-30T07:17:36Z",
+    "stargazers_count": 0
+  },
+  {
     "name": "hass-apc-rack-pdu",
     "description": "Home Assistant custom integration for APC Metered Rack PDUs (AP8858 / rPDU2) with power, energy, and env probe sensors",
     "url": "https://github.com/TwitchCaptain/hass-apc-rack-pdu",
