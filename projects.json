@@ -92,17 +92,6 @@
     "stargazers_count": 0
   },
   {
-    "name": "alexa-homeassistant",
-    "description": "Alexa skill to integrate with Home Assistant",
-    "url": "https://github.com/TwitchCaptain/alexa-homeassistant",
-    "homepage": "https://golift.io/discord",
-    "pages_url": null,
-    "language": "Python",
-    "topics": [],
-    "pushed_at": "2026-08-10T23:52:06Z",
-    "stargazers_count": 1
-  },
-  {
     "name": "aiosecspy",
     "description": "Python Asynchronous I/O SDK for SecuritySpy",
     "url": "https://github.com/TwitchCaptain/aiosecspy",
