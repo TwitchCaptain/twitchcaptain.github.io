@@ -11,17 +11,6 @@
     "stargazers_count": 0
   },
   {
-    "name": "golift-us",
-    "description": "Temporary static preview of golift.us",
-    "url": "https://github.com/TwitchCaptain/golift-us",
-    "homepage": "https://twitchcaptain.com/golift-us/",
-    "pages_url": "https://twitchcaptain.com/golift-us/",
-    "language": "HTML",
-    "topics": [],
-    "pushed_at": "2026-09-01T03:19:02Z",
-    "stargazers_count": 0
-  },
-  {
     "name": "hass-apc-rack-pdu",
     "description": "Home Assistant custom integration for APC Metered Rack PDUs (AP8858 / rPDU2) with power, energy, and env probe sensors",
     "url": "https://github.com/TwitchCaptain/hass-apc-rack-pdu",
