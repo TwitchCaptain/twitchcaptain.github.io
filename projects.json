@@ -1,5 +1,21 @@
 [
   {
+    "name": "hass-net-relay-8ch",
+    "description": "Home Assistant integration for Zhen Ming / IoTZone 8-channel Ethernet relay boards (TCP + HTTP)",
+    "url": "https://github.com/TwitchCaptain/hass-net-relay-8ch",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Python",
+    "topics": [
+      "hacs",
+      "homeassistant",
+      "integration",
+      "relay"
+    ],
+    "pushed_at": "2026-10-12T19:36:22Z",
+    "stargazers_count": 0
+  },
+  {
     "name": "auto-updater",
     "description": "Captain Updater — keep Windows apps current from GitHub releases",
     "url": "https://github.com/TwitchCaptain/auto-updater",
@@ -7,7 +23,7 @@
     "pages_url": null,
     "language": "Go",
     "topics": [],
-    "pushed_at": "2026-10-05T16:08:22Z",
+    "pushed_at": "2026-10-12T16:47:49Z",
     "stargazers_count": 0
   },
   {
@@ -41,22 +57,6 @@
     ],
     "pushed_at": "2026-10-05T09:45:36Z",
     "stargazers_count": 2
-  },
-  {
-    "name": "hass-net-relay-8ch",
-    "description": "Home Assistant integration for Zhen Ming / IoTZone 8-channel Ethernet relay boards (TCP + HTTP)",
-    "url": "https://github.com/TwitchCaptain/hass-net-relay-8ch",
-    "homepage": null,
-    "pages_url": null,
-    "language": "Python",
-    "topics": [
-      "hacs",
-      "homeassistant",
-      "integration",
-      "relay"
-    ],
-    "pushed_at": "2026-10-05T06:28:12Z",
-    "stargazers_count": 0
   },
   {
     "name": "racing",
