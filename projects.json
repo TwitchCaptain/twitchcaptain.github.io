@@ -1,5 +1,37 @@
 [
   {
+    "name": "hass-apc-rack-pdu",
+    "description": "Home Assistant custom integration for APC Metered Rack PDUs (AP8858 / rPDU2) with power, energy, and env probe sensors",
+    "url": "https://github.com/TwitchCaptain/hass-apc-rack-pdu",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Python",
+    "topics": [
+      "apc",
+      "hacs",
+      "homeassistant",
+      "integration"
+    ],
+    "pushed_at": "2026-10-13T06:10:02Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "hass-securityspy",
+    "description": "Home Assistant integration for SecuritySpy — cameras, motion, AI classify, arming, and PTZ",
+    "url": "https://github.com/TwitchCaptain/hass-securityspy",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Python",
+    "topics": [
+      "hacs",
+      "homeassistant",
+      "integration",
+      "securityspy"
+    ],
+    "pushed_at": "2026-10-13T04:34:29Z",
+    "stargazers_count": 2
+  },
+  {
     "name": "hass-net-relay-8ch",
     "description": "Home Assistant integration for Zhen Ming / IoTZone 8-channel Ethernet relay boards (TCP + HTTP)",
     "url": "https://github.com/TwitchCaptain/hass-net-relay-8ch",
@@ -25,38 +57,6 @@
     "topics": [],
     "pushed_at": "2026-10-12T16:47:49Z",
     "stargazers_count": 0
-  },
-  {
-    "name": "hass-apc-rack-pdu",
-    "description": "Home Assistant custom integration for APC Metered Rack PDUs (AP8858 / rPDU2) with power, energy, and env probe sensors",
-    "url": "https://github.com/TwitchCaptain/hass-apc-rack-pdu",
-    "homepage": null,
-    "pages_url": null,
-    "language": "Python",
-    "topics": [
-      "apc",
-      "hacs",
-      "homeassistant",
-      "integration"
-    ],
-    "pushed_at": "2026-10-05T10:26:42Z",
-    "stargazers_count": 0
-  },
-  {
-    "name": "hass-securityspy",
-    "description": "Home Assistant integration for SecuritySpy — cameras, motion, AI classify, arming, and PTZ",
-    "url": "https://github.com/TwitchCaptain/hass-securityspy",
-    "homepage": null,
-    "pages_url": null,
-    "language": "Python",
-    "topics": [
-      "hacs",
-      "homeassistant",
-      "integration",
-      "securityspy"
-    ],
-    "pushed_at": "2026-10-05T09:45:36Z",
-    "stargazers_count": 2
   },
   {
     "name": "racing",
