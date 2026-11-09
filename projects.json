@@ -7,7 +7,23 @@
     "pages_url": null,
     "language": "Go",
     "topics": [],
-    "pushed_at": "2026-11-02T17:10:06Z",
+    "pushed_at": "2026-11-09T17:37:42Z",
+    "stargazers_count": 0
+  },
+  {
+    "name": "hass-net-relay-8ch",
+    "description": "Home Assistant integration for Zhen Ming / IoTZone 8-channel Ethernet relay boards (TCP + HTTP)",
+    "url": "https://github.com/TwitchCaptain/hass-net-relay-8ch",
+    "homepage": null,
+    "pages_url": null,
+    "language": "Python",
+    "topics": [
+      "hacs",
+      "homeassistant",
+      "integration",
+      "relay"
+    ],
+    "pushed_at": "2026-11-09T06:45:02Z",
     "stargazers_count": 0
   },
   {
@@ -41,22 +57,6 @@
     ],
     "pushed_at": "2026-11-02T09:54:20Z",
     "stargazers_count": 2
-  },
-  {
-    "name": "hass-net-relay-8ch",
-    "description": "Home Assistant integration for Zhen Ming / IoTZone 8-channel Ethernet relay boards (TCP + HTTP)",
-    "url": "https://github.com/TwitchCaptain/hass-net-relay-8ch",
-    "homepage": null,
-    "pages_url": null,
-    "language": "Python",
-    "topics": [
-      "hacs",
-      "homeassistant",
-      "integration",
-      "relay"
-    ],
-    "pushed_at": "2026-11-02T06:41:47Z",
-    "stargazers_count": 0
   },
   {
     "name": "racing",
